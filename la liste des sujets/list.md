@@ -22,4 +22,4 @@
 - Réseau (Ayoub amaghouch)
 - Linux (Mohamed Dghar)
 - adobe (mahfoud oumaima)
-- CI/CD githube actions
+- CI/CD githube actions (bouhamid marwan)
